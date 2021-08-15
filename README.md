@@ -1,17 +1,17 @@
-![Profile header image](https://raw.githubusercontent.com/khangvo3103/khangvo3103/main/GitHub%20Profile%20Header.png)
-
-<!--
 ```python
 class introduction:
     def __init__(self):
         self.name = "Võ Khang"
         self.country = "Viet Nam"
         self.personality = ["funny", "sociable"]
+    
+    def sayHi(self):
+        print("👋 Hi there")
 ```
--->
+
 ### 👋 Hi there
 
-My name is Võ Khang. I'm a last year student at **Le Quy Don high school for the gifted** in [Da Nang, Viet Nam](https://goo.gl/maps/5LQC8v8eGrWtxXr5A). I have a passion for software and game development, so i started to study C++ and Python few years ago by myself. I also have some experiences in engineering and coding with Arduino. This place is where I save and develop my projects to practice coding. 
+I'm a last year student at **Le Quy Don high school for the gifted** in [Da Nang, Viet Nam](https://goo.gl/maps/5LQC8v8eGrWtxXr5A). I have a passion for software and game development, so i started to study C++ and Python few years ago by myself. I also have some experiences in engineering and coding with Arduino. This place is where I save and develop my projects to practice coding. 
 
 ---
 
