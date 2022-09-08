@@ -11,7 +11,7 @@ class introduction:
 
 ### 👋 Hi there
 
-I'm a last year student at **Le Quy Don high school for the gifted** in [Da Nang, Viet Nam](https://goo.gl/maps/5LQC8v8eGrWtxXr5A). I have a passion for software and game development, so i started to study C++ and Python few years ago by myself. I also have some experiences in engineering and coding with Arduino. This place is where I save and develop my projects to practice coding. 
+I'm a student learning Computer Science at **Swinburne University of Technology**. I have a passion for software and game development, so i started to study C++ and Python few years ago by myself. I also have some experiences in engineering and coding with Arduino. This place is where I save and develop my projects to practice coding. 
 
 ---
 
@@ -43,8 +43,8 @@ I'm a last year student at **Le Quy Don high school for the gifted** in [Da Nang
 
 ### 🌿 GitHub Status
 
-[![Khang's GitHub stats](https://github-readme-stats.vercel.app/api?username=khangdzox&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khangdzox&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Khang's GitHub stats](https://github-readme-stats.vercel.app/api?username=khangdzox&show_icons=true&theme=gotham&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khangdzox&theme=gotham&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
