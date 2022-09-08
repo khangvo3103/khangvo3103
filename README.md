@@ -43,8 +43,8 @@ I'm a last year student at **Le Quy Don high school for the gifted** in [Da Nang
 
 ### 🌿 GitHub Status
 
-[![Khang's GitHub stats](https://github-readme-stats.vercel.app/api?username=khangvo3103&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khangvo3103&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Khang's GitHub stats](https://github-readme-stats.vercel.app/api?username=khangdzox&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khangdzox&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
