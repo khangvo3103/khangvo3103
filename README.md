@@ -48,10 +48,10 @@ I'm a student learning Computer Science at **Swinburne University of Technology*
 ### 🌿 GitHub Status
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=khangdzox&show_icons=true&theme=transparent&count_private=true&rank_icon=github" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=khangdzox&show_icons=true&theme=transparent&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khangdzox&theme=transparent&count_private=true&layout=compact" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khangdzox&theme=transparent&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 <!--
